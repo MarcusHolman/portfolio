@@ -38,7 +38,7 @@ Los Angeles City College (GPA: 3.44)
 - **IDEs**: Visual Studio, PyCharm, VS Code  
 
 ## How to View My Portfolio
-Visit my portfolio [here](https://your-github-username.github.io) to learn more about my work and projects.
+Visit my portfolio [here](https://MarcusHolman.github.io) to learn more about my work and projects.
 
 ## Contact
 Feel free to reach out to me:
