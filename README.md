@@ -1,10 +1,3 @@
-# Data Scientist
-
-### Education
-Computer Science, AA
-
-### Projects
-
 # Marcus Holman Portfolio
 
 Welcome to my portfolio! This repository highlights my experience, skills, and achievements in computer science and software development.
